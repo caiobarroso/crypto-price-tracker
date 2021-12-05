@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bitcoin",
+    "slug": "bitcoin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bitcoin"
+}
