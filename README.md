@@ -1,5 +1,5 @@
 # crypto-price-tracker
-- Esse é um projeto feito a partir do video do notJust․dev (https://www.youtube.com/watch?v=K6i02mJc8Zc&t=12699s), que consiste numa aplicação que consome a API 'CoinGecko' e nos retorna em tempo real a variação das criptomoedas, além de exibir várias outras informações.
+- Esse é um projeto feito a partir do video do notJust․dev PT-1(https://www.youtube.com/watch?v=K6i02mJc8Zc&t=12699s) PT-2(https://www.youtube.com/watch?v=xuBB-k6jAqo), que consiste numa aplicação que consome a API 'CoinGecko' e nos retorna em tempo real a variação das criptomoedas, além de exibir várias outras informações.
 - O projeto foi feito em React Native, e nele aprendi vários tópicos importantes:<br />
   -> Leitura de uma API (Axios),<br />
   -> Navegação entre telas (React-Navigation),<br />
