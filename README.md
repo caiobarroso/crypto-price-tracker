@@ -3,7 +3,7 @@
 - O projeto foi feito em React Native, e nele aprendi vários tópicos importantes:<br />
   -> Leitura de uma API (Axios),<br />
   -> Navegação entre telas (React-Navigation),<br />
-  -> Detalhes de de cada criptomoeda (useRoute), podendo fazer a conversão para dólar e ver a sua variaçÃo por meio de gráficos interativos (Animated-charts),<br />
+  -> Detalhes de de cada criptomoeda (useRoute), podendo fazer a conversão para dólar e ver a sua variação por meio de gráficos interativos (Animated-charts),<br />
   -> Salvar as moedas preferidas no Watchlist (API Context, AsyncStorage);
   
 ![Captura de Tela (2)](https://user-images.githubusercontent.com/49173134/146456436-0e151ad8-51df-404f-8e76-17e09094534e.png)
