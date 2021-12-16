@@ -4,7 +4,7 @@
   -> Leitura de uma API (Axios),<br />
   -> Navegação entre telas (React-Navigation),<br />
   -> Detalhes de de cada criptomoeda (useRoute), podendo fazer a conversão para dólar e ver a sua variação por meio de gráficos interativos (Animated-charts),<br />
-  -> Salvar as moedas preferidas no Watchlist (API Context, AsyncStorage);
+  -> Salvar as moedas preferidas no Watchlist (Context API, AsyncStorage);
   
 ![Captura de Tela (2)](https://user-images.githubusercontent.com/49173134/146456436-0e151ad8-51df-404f-8e76-17e09094534e.png)
 ![Captura de Tela (3)](https://user-images.githubusercontent.com/49173134/146456446-2133d51d-a98b-42c9-8cd3-17ab7b48445b.png)
