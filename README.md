@@ -7,7 +7,7 @@
   -> Salvar as moedas preferidas no Watchlist (Context API, AsyncStorage);
   
  -------------------------------------------------------------------------------------------------------------------------------------------------------
- - This is a project made from the video of notJust․dev PT-1(https://www.youtube.com/watch?v=K6i02mJc8Zc&t=12699s) PT-2(https://www.youtube.com/watch?v=K6i02mJc8Zc&t=12699s) PT-2(https://www.youtube.com/watch ?v=xuBB-k6jAqo), which is an application that consumes the 'CoinGecko' API and returns the cryptocurrencies variation in real time, in addition to displaying various other information.
+ - This is a project made from the video of notJust․dev PT-1(https://www.youtube.com/watch?v=K6i02mJc8Zc&t=12699s) PT-2(https://www.youtube.com/watch?v=xuBB-k6jAqo), which is an application that consumes the 'CoinGecko' API and returns the cryptocurrencies variation in real time, in addition to displaying various other information.
 - The project was made in React Native, and in it I learned several important topics:<br />
   -> Reading from an API (Axios),<br />
   -> Navigation between screens (React-Navigation),<br />
