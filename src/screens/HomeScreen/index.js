@@ -35,7 +35,7 @@ const HomeScreen = () => {
     <FlatList
       data={coins}
       renderItem={({ item }) => <CoinItem marketCoin={item} />}
-      onEndReached={() => fetchCoins((coins.length / 25) + 1)}
+      onEndReached={() => fetchCoins((coins.length / 50) + 1)}
       refreshControl={
         <RefreshControl
           refreshing={loading}

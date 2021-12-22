@@ -20,24 +20,20 @@ const CoinItem = ({ marketCoin }) => {
     const navigation = useNavigation()
 
     const normalizeMarketCap = (marketCap) => {
-        let trillion = 1000000000000
-        let billion = 1000000000
-        let million = 1000000
-        let thousand = 1000
-
-        if (marketCap > trillion) {
-            return `${Math.floor(marketCap / trillion)} T`
-        } if (marketCap > billion) {
-            return `${Math.floor(marketCap / billion)} B`
-        } if (marketCap > million) {
-            return `${Math.floor(marketCap / million)} M`
-        } if (marketCap > thousand) {
-            return `${Math.floor(marketCap / thousand)} K`
+        
+        if (marketCap > 1e12) {
+            return `${Math.floor(marketCap / 1e12)} T`
+        } if (marketCap > 1e9) {
+            return `${Math.floor(marketCap / 1e9)} B`
+        } if (marketCap > 1e6) {
+            return `${Math.floor(marketCap / 1e6)} M`
+        } if (marketCap > 1e3) {
+            return `${Math.floor(marketCap / 1e3)} K`
         }
         return marketCap
     }
 
-    const percentageColor = price_change_percentage_24h < 0 ? '#ea3943' : '#16c784'
+    const percentageColor = price_change_percentage_24h < 0 ? '#ea3943' : '#16c784' || 'white'
 
     return (
         <Pressable style={styles.coinConteiner} onPress={() => navigation.navigate('CoinDetaisScreen', {coinId: id})}>
@@ -58,7 +54,7 @@ const CoinItem = ({ marketCoin }) => {
                         size={12}
                         color={percentageColor}
                         style={{ alignSelf: 'center', marginRight: 5 }} />
-                    <Text style={{ color: percentageColor }}>{price_change_percentage_24h.toFixed(2)}%</Text>
+                    <Text style={{ color: percentageColor }}>{price_change_percentage_24h?.toFixed(2)}%</Text>
                 </View>
             </View>
             <View style={{ marginLeft: 'auto', alignItems: 'flex-end' }}>
