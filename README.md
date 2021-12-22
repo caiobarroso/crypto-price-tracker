@@ -4,7 +4,7 @@
   -> Leitura de dados de uma API (Axios),<br />
   -> Navegação entre telas (React-Navigation),<br />
   -> Detalhes de de cada criptomoeda (useRoute), podendo fazer a conversão para dólar e ver a sua variação por meio de gráficos interativos (Animated-charts),<br />
-  -> Salvar as moedas preferidas no Watchlist (Context API, AsyncStorage);
+  -> Salvar as moedas preferidas no Watchlist (Context API, AsyncStorage);<br />
   -> Realizar compras de criptomoedas (Recoil.js)
   
  -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -13,7 +13,7 @@
   -> Reading data from an API (Axios),<br />
   -> Navigation between screens (React-Navigation),<br />
   -> Details of each cryptocurrency (useRoute), converting to dollar and seeing its variation through interactive charts (Animated-charts),<br />
-  -> Save preferred currencies to Watchlist (Context API, AsyncStorage);
+  -> Save preferred currencies to Watchlist (Context API, AsyncStorage);<br />
   -> make cryptocurrency purchases (Recoil.js)
   
 ![Captura de Tela (2)](https://user-images.githubusercontent.com/49173134/146456436-0e151ad8-51df-404f-8e76-17e09094534e.png)
