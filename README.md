@@ -20,3 +20,5 @@
 ![Captura de Tela (3)](https://user-images.githubusercontent.com/49173134/146456446-2133d51d-a98b-42c9-8cd3-17ab7b48445b.png)
 ![Captura de Tela (4)](https://user-images.githubusercontent.com/49173134/146456453-2fcde06e-39fe-47f9-8d6f-31af7d5cf9cf.png)
 
+![crypto](https://user-images.githubusercontent.com/49173134/147030872-e71baa8f-320f-4384-899b-0388d9a14964.png)
+![crypto2](https://user-images.githubusercontent.com/49173134/147030877-63fc1fa9-a5bf-4ccb-ac62-6eceeedf9e82.png)
